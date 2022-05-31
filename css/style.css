@@ -1,16 +1,28 @@
-
-body {
-    height: 3000px;
-    margin-top: 75px;
-
-}
-
 div.box-shadow {
      box-shadow: 0 2px 4px 0 rgba(0, 0, 0, .05),
         0 2px 4px 0 rgba(0, 0, 0, .05);
+        margin-top: 75px;
 
 }
 
 .icone{
-    height: 100px;
+    height: 50px;
+}
+
+#home-quote{
+   background: url(../img/bg-quote.jpg) center center;
+   background-size: cover;
+}
+
+@media(max-width: 767px){
+#home-quote .display-4{
+font-size: 2.5rem;
+}
+
+div.box-shadow {
+    margin-top: 0;
+}
+.fixed-top{
+    position: relative;
+}
 }
