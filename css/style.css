@@ -58,3 +58,7 @@ div.box-shadow {
 .contatoRedesSociais{
 max-width: 260px;
 }
+
+.form-row.d-flex .col-md-6{
+margin: 2rem;
+}
