@@ -4,7 +4,7 @@
 </p>
 
 ## 📖 Sobre   
-O projeto **Caravan** foi desenvolvido durante o curso de **Bootstrap 4** da **[Origamid](https://www.origamid.com/)**, mas foi atualizado pelo desenvolvedor para **Bootstrap 5**
+O projeto **Caravan** foi desenvolvido durante o curso de **Bootstrap 4** da **[Origamid](https://www.origamid.com/)**, mas foi atualizado pelo desenvolvedor para **Bootstrap 5**.
 É uma  página de agência de viagens, composta por quatro páginas diferentes,utilizado o pré-processador **Sass**, para **otimizar** o CSS final do projeto.
 
 ---
